@@ -120,21 +120,3 @@ The code supports the following architectures via the `timm` library:
 | ResNet50 | 90.17% |
 | DeiT-Small | 83.67% |
 
-## 📝 Citation
-
-If you use this code or dataset in your research, please cite our paper:
-
-```bibtex
-@article{peng2024ensemble,
-  title={Ensemble Learning for Fine-Grained Chinese Minority Costume Classification: A Comprehensive Empirical Study},
-  author={Peng, Tianxiao and Sun, Tianda and Wang, Ping},
-  journal={Springer Nature},
-  year={2024}
-}
-```
-
-## 👥 Authors
-
-- Tianxiao Peng (Guangdong University of Science and Technology)
-- Tianda Sun (University of York)
-- Ping Wang (Guangdong University of Science and Technology)
